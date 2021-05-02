@@ -1,0 +1,30 @@
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.exe
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.deps.json
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.runtimeconfig.json
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.runtimeconfig.dev.json
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.dll
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.pdb
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.csprojAssemblyReference.cache
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.csproj.GenerateResource.cache
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.AssemblyInfoInputs.cache
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.AssemblyInfo.cs
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.csproj.CoreCompileInputs.cache
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.dll
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.pdb
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.genruntimeconfig.cache
+C:\Users\Júlio Cleto\source\repos\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.PortfolioCiclo03.resources
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.exe
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.deps.json
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.runtimeconfig.json
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.runtimeconfig.dev.json
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.dll
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\bin\Debug\netcoreapp3.1\PortfolioCiclo02.pdb
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.csprojAssemblyReference.cache
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.PortfolioCiclo03.resources
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.csproj.GenerateResource.cache
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.AssemblyInfo.cs
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.dll
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.pdb
+C:\Users\gusta\Downloads\PortfolioCiclo02\PortfolioCiclo02\obj\Debug\netcoreapp3.1\PortfolioCiclo02.genruntimeconfig.cache
